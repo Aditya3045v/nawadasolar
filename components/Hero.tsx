@@ -30,8 +30,8 @@ export default function Hero() {
                 <div className="text-center">
                     {/* Large Centered Title */}
                     <h1 className="text-8xl xl:text-9xl 2xl:text-[12rem] font-bold tracking-tight text-white leading-[0.9] drop-shadow-2xl mb-12 animate-fade-in-up">
-                        SOLAR &<br />
-                        ELECTRICAL
+                        SUMAN<br />
+                        SOLAR
                     </h1>
 
                     {/* Clean Capsule Button */}
@@ -113,3 +113,4 @@ export default function Hero() {
         </section>
     );
 }
+
